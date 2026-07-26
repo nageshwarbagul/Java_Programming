@@ -1,3 +1,0 @@
-# Practice
-
-This folder contains Java practice programs covering core concepts and problem-solving exercises.
